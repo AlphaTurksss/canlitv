@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://i.imgur.com/9O2eSKb.png" group-title="Ulusal" tvg-country="TR",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="Ulusal" tvg-country="TR",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://i.imgur.com/7qPKYVh.png" group-title="Spor" tvg-country="TR",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/NM2eYgs.png" group-title="Ulusal" tvg-country="TR",Show TV
+https://showtvdvr.blutv.com/blutv_showtv_dvr/live.m3u8
